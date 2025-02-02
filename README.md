@@ -42,3 +42,4 @@ Graph-RAG has been quantitatively evaluated and demonstrates significant advance
 - **Answer Accuracy:** Improved precision in answering historical questions.
 - **Reliability:** Better performance in providing accurate numerical data related to historical events and concepts.
 
+![Example output](output.png)
